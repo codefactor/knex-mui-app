@@ -45,43 +45,4 @@ yarn dev
 ```
 
 This will open a browser automatically: http://localhost:3000
-This is the client UI, which is where you can interact with the bot's API.
-
-## Smart contracts
-
-### Flash loans
-Those services provide flash loans:
-
-#### www.aave.com
-https://docs.aave.com/developers/guides/flash-loans
-
-#### Uniswap
-- https://docs.uniswap.org/protocol/V2/guides/smart-contract-integration/using-flash-swaps
-- Flash loan example using Uniswap:
-https://github.com/Uniswap/v3-periphery/blob/main/contracts/examples/PairFlash.sol
-
-#### Sushi
-https://dev.sushi.com/bentobox-1/bentobox-vault#flash-loans
-
-#### Kollateral
-https://www.kollateral.co/
-
-#### Dy/Dx
-https://money-legos.studydefi.com/#/dydx
-https://github.com/QuantSoldier/dydx-flashloan
-
-### Development environment
-
-#### Truffle / Ganache
-https://trufflesuite.com/docs/ganache/overview
-Best environment to develop and test smart contracts locally.
-
-#### Infura
-https://infura.io
-This online service can be used to connect to the Ethereum network.
-
-### Tutorials
-- https://soliditydeveloper.com/multiswap
-- https://soliditydeveloper.com/multiswap-advanced
-- https://trufflesuite.com/boxes/flashloan-box/
-- https://github.com/Uniswap/v3-periphery/blob/main/contracts/examples/PairFlash.sol
+This is the client UI, which is where you can interact with the API.
